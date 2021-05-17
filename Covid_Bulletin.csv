@@ -1,4 +1,4 @@
-Date,Sl._No.,Taluk_Name,Today_Postive,Total_Postive,Today_Discharges,Total_Discharges,Total_active_Cases,Today_Death,Total_Death
+Date,Sl._No,Taluk_Name,Today_Positive,Total_Positive,Today_Discharges,Total_Discharges,Total_Active_Cases,Today_Deaths,Total_Deaths
 09-05-2021,1,Gadag,199,7150,141,6290,770,1,90
 09-05-2021,2,Mundargi,46,1678,15,1551,119,0,8
 09-05-2021,3,Naragunda,15,1146,8,1082,59,0,5
